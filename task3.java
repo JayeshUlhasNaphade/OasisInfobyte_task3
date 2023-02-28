@@ -2,8 +2,8 @@
 
                             OASIS INFOBYTE  
                     JAVA DEVELOPEMENT INTERNSHIP
-					      JAYESH NAPHADE
-					TASK #3 :- ATM INTERFACE
+		    	    JAYESH NAPHADE
+		      TASK #3 :- ATM INTERFACE
 
 *******************************************************************************/
 
